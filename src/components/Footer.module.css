@@ -1,0 +1,15 @@
+.footerlink {
+  text-decoration: none;
+  color: #393c41;
+  text-align: center;
+}
+.footer {
+  display: flex;
+  justify-content: center;
+}
+@media (max-width: 900px) {
+  .footer ul {
+    flex-direction: column;
+    text-align: center;
+  }
+}

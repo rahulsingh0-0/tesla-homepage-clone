@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+html {
+  scroll-snap-type: y mandatory;
+}
+
+section {
+  scroll-snap-align: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
