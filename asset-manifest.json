@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/tesla-homepage-clone/static/css/main.bac2f2b1.chunk.css",
+    "main.js": "/tesla-homepage-clone/static/js/main.d7a0be61.chunk.js",
+    "main.js.map": "/tesla-homepage-clone/static/js/main.d7a0be61.chunk.js.map",
+    "runtime-main.js": "/tesla-homepage-clone/static/js/runtime-main.a31a4f6e.js",
+    "runtime-main.js.map": "/tesla-homepage-clone/static/js/runtime-main.a31a4f6e.js.map",
+    "static/js/2.ad2ac105.chunk.js": "/tesla-homepage-clone/static/js/2.ad2ac105.chunk.js",
+    "static/js/2.ad2ac105.chunk.js.map": "/tesla-homepage-clone/static/js/2.ad2ac105.chunk.js.map",
+    "static/js/3.65a646ca.chunk.js": "/tesla-homepage-clone/static/js/3.65a646ca.chunk.js",
+    "static/js/3.65a646ca.chunk.js.map": "/tesla-homepage-clone/static/js/3.65a646ca.chunk.js.map",
+    "index.html": "/tesla-homepage-clone/index.html",
+    "static/css/main.bac2f2b1.chunk.css.map": "/tesla-homepage-clone/static/css/main.bac2f2b1.chunk.css.map",
+    "static/js/2.ad2ac105.chunk.js.LICENSE.txt": "/tesla-homepage-clone/static/js/2.ad2ac105.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/tesla-homepage-clone/static/media/GothamMedium.0a910c0b.ttf",
+    "static/media/accessories.027ada94.jpg": "/tesla-homepage-clone/static/media/accessories.027ada94.jpg",
+    "static/media/model-3.30651f79.jpg": "/tesla-homepage-clone/static/media/model-3.30651f79.jpg",
+    "static/media/model-s.b65171b9.jpg": "/tesla-homepage-clone/static/media/model-s.b65171b9.jpg",
+    "static/media/model-x.25937b94.jpg": "/tesla-homepage-clone/static/media/model-x.25937b94.jpg",
+    "static/media/model-y.30acb76a.jpg": "/tesla-homepage-clone/static/media/model-y.30acb76a.jpg",
+    "static/media/solar-panel.d7d441d7.jpg": "/tesla-homepage-clone/static/media/solar-panel.d7d441d7.jpg",
+    "static/media/solar-roof.acfd9045.jpg": "/tesla-homepage-clone/static/media/solar-roof.acfd9045.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a31a4f6e.js",
+    "static/js/2.ad2ac105.chunk.js",
+    "static/css/main.bac2f2b1.chunk.css",
+    "static/js/main.d7a0be61.chunk.js"
+  ]
+}
